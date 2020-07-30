@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12557053268",
+    "firebase_url": "https://dwyl-test.firebaseio.com",
+    "project_id": "dwyl-test",
+    "storage_bucket": "dwyl-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12557053268:android:42044321017d284787acc1",
+        "android_client_info": {
+          "package_name": "com.tomhaines.test.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12557053268-r2t1m8gurb3scftjobtcbr38fc43nvk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgL59NK1Gnw4OS2gGknLWuOouI6i8X3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12557053268-r2t1m8gurb3scftjobtcbr38fc43nvk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
